@@ -32,4 +32,4 @@
 #SOFTWARE
 
 13. Python Tools for Visual Studio  - https://microsoft.github.io/PTVS/ - Visual Studio plug-in enabling Python programming
-1 . pandas: powerful Python data analysis toolki- http://pandas.pydata.org/pandas-docs/stable/
+1. pandas: powerful Python data analysis toolki- http://pandas.pydata.org/pandas-docs/stable/
